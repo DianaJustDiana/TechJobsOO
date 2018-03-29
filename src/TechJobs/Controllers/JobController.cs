@@ -23,7 +23,7 @@ namespace TechJobs.Controllers
             Job someJob = jobData.Find(id);
 
 
-            return View();
+            return View(someJob);
         }
 
         public IActionResult New()
