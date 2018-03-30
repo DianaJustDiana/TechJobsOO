@@ -47,6 +47,7 @@
           <e p="Startup.cs" t="Include" />
           <e p="TechJobs.csproj" t="IncludeRecursive" />
           <e p="ViewModels" t="Include">
+            <e p="BaseViewModel.cs" t="Include" />
             <e p="JobFieldsViewModel.cs" t="Include" />
             <e p="NewJobViewModel.cs" t="Include" />
             <e p="SearchJobsViewModel.cs" t="Include" />
